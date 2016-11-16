@@ -1,7 +1,4 @@
 # Evil Insult Generator PHP Telegram Bot
-[![Build Status](https://travis-ci.org/EvilInsultGenerator/telegram-bot.svg?branch=master)](https://travis-ci.org/EvilInsultGenerator/telegram-bot)
-[![codecov](https://codecov.io/gh/EvilInsultGenerator/telegram-bot/branch/master/graph/badge.svg)](https://codecov.io/gh/EvilInsultGenerator/telegram-bot)
-[![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg)](https://evilinsult.com)
 
 Evil Insult Generator's goal is to offer the most evil insults. Please help us to reach this honorable purpose by submitting insults
 via mail.
