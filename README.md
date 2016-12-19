@@ -46,3 +46,7 @@ We love to get in touch with you. Feel welcome to email your questions and feedb
 
 ### Screenshots
 ![Evil Insult Generator PHP Telegram Bot Screenshot](https://cloud.githubusercontent.com/assets/23016876/19628589/82888d5c-9961-11e6-8bc3-dceeec130800.png)
+
+### Credits
+I am deeply grateful that [JetBrains](https://www.jetbrains.com/) sponsored two licenses of [PhpStorm](https://www.jetbrains.com/phpstorm/)
+[![PyCharm](https://cloud.githubusercontent.com/assets/24652575/21313682/81235e42-c5f3-11e6-901d-8d6910cabccc.png)](https://www.jetbrains.com/phpstorm/)
