@@ -5,6 +5,24 @@ via mail.
 
 ![Evil Insult Generator Icon](https://cloud.githubusercontent.com/assets/22981912/19600664/5521d010-97a6-11e6-9f67-fec931b199d7.png)
 
+### Tutorial
+
+The button ```Generate Insult``` sends you a random insult in the language you selected with the ```Change Language``` button. Default is English. 
+
+Clicking on ```Homepage``` gives you the link to our awesome [homepage](https://evilinsult.com/). 
+
+The bot supports Telegram groups and [inline](https://core.telegram.org/bots/inline) messages. 
+
+*[@EvilInsultGeneratorBot](https://telegram.me/EvilInsultGeneratorBot)* without any additional info shows the menu where you can send a random insult or the link to the homepage.
+
+If you add a language code (e.g. *[@EvilInsultGeneratorBot](https://telegram.me/EvilInsultGeneratorBot) la*) it shows you a preview in that language and you can click on it to submit it.
+
+In case you write an unsupported language code (e.g. *[@EvilInsultGeneratorBot](https://telegram.me/EvilInsultGeneratorBot) xyz*) it sends one completely random insult. 
+
+Questions and feedback are very welcome. Take care!
+
+You can get help by sending **Help** to the bot.
+
 ### Installation
 
 Insert your token you got from [@Botfather](https://telegram.me/botfather) and optionally your [Botan](https://botan.io/) token.
