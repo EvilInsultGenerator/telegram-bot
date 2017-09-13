@@ -50,7 +50,7 @@ We love to get in touch with you. Feel welcome to email your questions and feedb
 > of the public at large and to the detriment of our heirs and
 > successors. We intend this dedication to be an overt act of
 > relinquishment in perpetuity of all present and future rights to this
-> software under copyright law.
+> software under copyright law. The files ```Telegram.php``` and ```TelegramErrorLogger.php``` are under a [MIT license](https://github.com/Eleirbag89/TelegramBotPHP/blob/master/LICENSE.md).
 > 
 > THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 > EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
