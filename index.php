@@ -169,7 +169,7 @@ if ($callback_query !== null && $callback_query != '')
 
 function generateInsult($lang)
 	{
-	$insult = file_get_contents("https://slave.evilinsult.com/generate_insult.php?lang=" . $lang);
+	$insult = file_get_contents("https://evilinsult.com/generate_insult.php?lang=" . $lang);
 	$insult = htmlspecialchars_decode($insult);
 	return $insult;
 	}
