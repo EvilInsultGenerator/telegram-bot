@@ -25,8 +25,8 @@ You can get help by sending **Help** to the bot.
 
 ### Installation
 
-Insert your token you got from [@Botfather](https://telegram.me/botfather) and optionally your [Botan](https://botan.io/) token.
-Upload the `php` file to any webserver. We tested it with Apache and Nginx. But everyone else should be fine too.
+Insert your token you got from [@Botfather](https://telegram.me/botfather) into the `config.inc.php` and optionally your [Botan](https://botan.io/) token.
+Upload all files to any webserver. We tested it with Apache and Nginx. But everyone else should be fine too.
 
 Now the bot works. 👌
 
