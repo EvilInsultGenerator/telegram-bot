@@ -28,6 +28,8 @@ You can get help by sending **Help** to the bot.
 Insert your token you got from [@Botfather](https://telegram.me/botfather) into the `config.inc.php` and optionally your [Botan](https://botan.io/) token.
 Upload all files to any webserver. We tested it with Apache and Nginx. But everyone else should be fine too.
 
+Then you have to activate the webhook by visting [https://api.telegram.org/bot(BOT_TOKEN)/setWebhook?url=https://yoursite.com/index.php](https://api.telegram.org/bot(BOT_TOKEN)/setWebhook?url=https://yoursite.com/your_update.php)
+
 Now the bot works. 👌
 
 Try out [@EvilInsultGeneratorBot](https://telegram.me/EvilInsultGeneratorBot).
