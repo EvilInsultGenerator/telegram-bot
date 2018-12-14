@@ -69,6 +69,6 @@ We love to get in touch with you. Feel welcome to email your questions and feedb
 
 ### Credits
 I am deeply grateful that [JetBrains](https://www.jetbrains.com/) sponsored two licenses of [PhpStorm](https://www.jetbrains.com/phpstorm/)
-[![PyCharm](https://cloud.githubusercontent.com/assets/24652575/21313682/81235e42-c5f3-11e6-901d-8d6910cabccc.png)](https://www.jetbrains.com/phpstorm/)
+[![PhpStorm](https://cloud.githubusercontent.com/assets/24652575/21313682/81235e42-c5f3-11e6-901d-8d6910cabccc.png)](https://www.jetbrains.com/phpstorm/)
 
 This bot uses the very simple and extremely awesome [PHP Telegram Bot API for sending messages](https://github.com/Eleirbag89/TelegramBotPHP) from [Gabriele Grillo](https://github.com/Eleirbag89).
